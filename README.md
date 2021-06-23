@@ -1,2 +1,2 @@
 # Javascript
-All about Javascrpit
+Using HTML and CSS
