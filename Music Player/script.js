@@ -1,0 +1,1 @@
+let now_playing = document.querySelector('.now_playing');
