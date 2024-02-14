@@ -9,8 +9,8 @@ result1 = sum(4,5);
 result2 = sum(7,5);
 
 
-console.log("The sum of these numbers is:"+result);
+console.log("The sum of these numbers is:" +result);
 
-console.log("The sum of these numbers is:"+result1);
+console.log("The sum of these numbers is:" +result1);
 
-console.log("The sum of these numbers is:"+result2);
+console.log("The sum of these numbers is:" +result2);
